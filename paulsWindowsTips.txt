@@ -1,0 +1,7 @@
+"C:/Program Files/R/R-3.4.1/bin/R.exe" -f prereqs.sR
+
+"C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/BrowserViz_1.9.15.tar.gz
+"C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/MotifDb_1.19.7.tar.gz
+"C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/trenaViz_0.99.13.tar.gz
+"C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/trena_0.99.151.tar.gz
+
