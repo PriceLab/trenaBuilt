@@ -21,6 +21,7 @@ data.pkgs <- c("BSgenome",
                "BSgenome.Hsapiens.UCSC.hg19",
                "BSgenome.Mmusculus.UCSC.mm10",
                "org.Hs.eg.db",
+               "org.Mm.eg.db",
                "SNPlocs.Hsapiens.dbSNP144.GRCh38")
 
 biocLite(c(code.pkgs, data.pkgs))
