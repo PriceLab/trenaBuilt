@@ -11,7 +11,9 @@ code.pkgs <- c("GenomicRanges",
                "randomForest",
                "flare",
                "vbsr",
-               "stringr")
+               "stringr",
+               "httpuv",
+               "colorspace"
 
 data.pkgs <- c("BSgenome",
                "BSgenome.Hsapiens.UCSC.hg38",
