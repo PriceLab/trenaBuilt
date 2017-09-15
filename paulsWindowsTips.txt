@@ -1,4 +1,7 @@
-"C:/Program Files/R/R-3.4.1/bin/R.exe" -f prereqs.sR
+# paths and version numbers subject to change
+# these values are good for the ISB laptop "portch" on (15 sep 2017)
+#-----------------------------------------------------------------------------------------------------------
+"C:/Program Files/R/R-3.4.1/bin/R.exe" -f prereqs.R
 
 "C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/BrowserViz_1.9.15.tar.gz
 "C:/Program Files/R/R-3.4.1/bin/R.exe" --no-save CMD INSTALL ~/github/trenaBuild/MotifDb_1.19.7.tar.gz
