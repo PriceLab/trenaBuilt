@@ -13,7 +13,8 @@ code.pkgs <- c("GenomicRanges",
                "vbsr",
                "stringr",
                "httpuv",
-               "colorspace"
+               "colorspace",
+               "annotate")
 
 data.pkgs <- c("BSgenome",
                "BSgenome.Hsapiens.UCSC.hg38",
