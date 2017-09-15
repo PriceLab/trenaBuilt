@@ -5,5 +5,7 @@ packages.
 
 ### Prerequisites: R -f prereqs.R
 
-This may take ten minutes to complete
+There are some large genome-scale data files included here.  Thus this
+step may take ten minutes or more to complete.
+
 

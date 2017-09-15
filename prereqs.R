@@ -3,7 +3,6 @@ source("http://bioconductor.org/biocLite.R")
 code.pkgs <- c("GenomicRanges",
                "Biostrings",
                "BiocParallel",
-               "methods",
                "DBI",
                "RPostgreSQL",
                "RMySQL",
